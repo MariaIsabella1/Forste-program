@@ -53,3 +53,4 @@ def maria(alder, høyde):
     else:
         print("what?!")
 
+print("Hello")
